@@ -10,6 +10,13 @@ npm init -y
 npm install express
 ```
 
+```bash
+git init
+git add .
+git commit -m "message"
+git push
+```
+
 ### Create file server.js
 
 ```js
